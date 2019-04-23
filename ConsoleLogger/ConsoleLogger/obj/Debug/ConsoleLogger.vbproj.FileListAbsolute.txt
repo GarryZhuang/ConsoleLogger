@@ -1,0 +1,20 @@
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\bin\Debug\ConsoleLogger.dll
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\bin\Debug\ConsoleLogger.pdb
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\bin\Debug\ConsoleLogger.xml
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.Resources.resources
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.dll
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.xml
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\ConsoleLogger\obj\Debug\ConsoleLogger.pdb
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\bin\Debug\ConsoleLogger.dll
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\bin\Debug\ConsoleLogger.pdb
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\bin\Debug\ConsoleLogger.xml
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.Resources.resources
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.dll
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.xml
+C:\Users\Garry Zhuang\Desktop\GarrysAppProjects\ConsoleLogger\ConsoleLogger\obj\Debug\ConsoleLogger.pdb
